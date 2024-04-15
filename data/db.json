@@ -1,0 +1,16 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Azaro",
+            "reference":"070",
+            "prix":300
+        },
+        {
+            "id":2,
+            "name":"One million",
+            "reference":"120",
+            "prix":500
+        }
+    ]
+}

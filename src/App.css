@@ -1,0 +1,9 @@
+.table-row {
+  padding: 1rem .5rem;
+  background-color: #00000015;
+  margin: .2rem 0;
+  border-radius: .5rem;
+}
+.table-cell{
+  padding: .5rem;
+}
