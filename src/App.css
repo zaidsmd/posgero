@@ -7,3 +7,6 @@
 .table-cell{
   padding: .5rem;
 }
+table.table {
+  border-collapse: collapse !important;
+}
